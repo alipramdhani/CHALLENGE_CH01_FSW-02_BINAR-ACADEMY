@@ -3,7 +3,6 @@ section {
     scroll-margin-top: 100px;
     margin-bottom: 50px;
   }
-  /* section-1 */
 h1 {
     font-family: Helvetica;
     font-size: 36px;
@@ -104,7 +103,6 @@ p {
 }
 
 /* section-4 */
-
 .carousel {
     padding: 0 20px;
     
@@ -128,7 +126,6 @@ p {
     
 }
 
-
 /* section-5 */
 #section-5 {
     margin-top: 100px;
@@ -141,6 +138,7 @@ p {
     background-color: #0D28A6;
     width: 70%;
 }
+
 /* section-6 */
 #section-6 {
     height: 500px;
